@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DragCircles" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="DragCircles" />
+    <module name="DragCircles" />
+    <option name="PROGRAM_PARAMETERS" value="-ea" />
+    <option name="VM_PARAMETERS" value="--module-path ../javafx-sdk-15.0.1/lib  --add-modules javafx.controls" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
